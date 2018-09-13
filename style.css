@@ -1,0 +1,35 @@
+html{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: azure;
+    background-image: url(https://images.unsplash.com/photo-1498354136128-58f790194fa7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8d66d0f68c7412e69612414926dbbe97&auto=format&fit=crop&w=1050&q=80);
+}
+body{
+
+}
+
+.contanier{
+    margin: 150px 0 0 0;
+    text-align: center;
+   
+}
+.button{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    font-size: 36px;
+    margin: 11px;
+    color: rgb(167, 157, 157);
+    text-decoration: none;
+    outline: none;
+}
+.board{
+    width: 100px;
+}
+.board input{
+    position: relative;
+    height: 40px;
+    width: 330px;
+    text-align: right;
+    font-size: 30px;
+}
